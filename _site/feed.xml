@@ -1,5 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-01T16:00:48-04:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-05-01T15:58:59-04:00</published><updated>2017-05-01T15:58:59-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-26T14:14:05-04:00</updated><id>http://localhost:4000/</id><title type="html">Brandon’s Blog</title><subtitle>Aspiring developer. One time coffee roaster. Father. Husband. Consumer of candy.
+</subtitle><entry><title type="html">So You Wanna be a Hacker</title><link href="http://localhost:4000/2017/05/26/so-you-wanna-be-a-hacker.html" rel="alternate" type="text/html" title="So You Wanna be a Hacker" /><published>2017-05-26T00:00:00-04:00</published><updated>2017-05-26T00:00:00-04:00</updated><id>http://localhost:4000/2017/05/26/so-you-wanna-be-a-hacker</id><content type="html" xml:base="http://localhost:4000/2017/05/26/so-you-wanna-be-a-hacker.html">&lt;h1 id=&quot;so-you-wanna-be-a-hacker&quot;&gt;So You Wanna be a Hacker&lt;/h1&gt;
+&lt;h2 id=&quot;code-cracker-slacker&quot;&gt;Code Cracker, Slacker&lt;/h2&gt;
+&lt;h3 id=&quot;morning-warmup-526&quot;&gt;Morning Warmup 5/26&lt;/h3&gt;
+
+&lt;h2 id=&quot;1-what-i-learned-my-first-week-of-camp&quot;&gt;1. What I Learned My First Week of Camp&lt;/h2&gt;
+
+&lt;p&gt;The biggest thing I learned was getting back into the habit of discovery. I’ve always been a lifelong learner, but being back in the classroom brings a different tenor to it. Remembering the feeling of uncovering something completely new, finding something familiar and yet just a little beyond your cognitive grasp and then finding it and wrestling it into sumbission.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-why-did-i-join-a-web-developer-bootcamp&quot;&gt;2. Why Did I Join a Web Developer Bootcamp?&lt;/h2&gt;
+
+&lt;p&gt;Good question. After years in restaurant management, I found myself in a job where I was good at it, but I was limited in terms of upward mobility. At some point I wanted to make the jump but with only a history major and 11 years in foodservice, making the jump can be daunting when you no longer want to do either of those things. Once upon a time I had an interest in coding and math, but it had been shelved over years and at some point, the gap seemed to broad to cross. Technology had spun too many times around and left me behind. I first heard of bootcamps in California and thought about it but moving away for months from family seemed like too big a moonshot, but when this one came to my attention, it offered a great opportunity, a bridge to the other side. This was my chance and I took it.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-explain-a-technical-concept&quot;&gt;3. Explain a technical concept&lt;/h2&gt;
+
+&lt;p&gt;Git is a great tool for managing versions but every so often you will come across merge conflicts, places where git attempted to update two versions of the same file and was unable to do so. These must be resolved but git will still merge the file, with errors and some signals around the conflict zone. For example:&lt;/p&gt;
+
+&lt;p&gt;Merge Conflict Sample -&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;err&quot;&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt; HEAD&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/css&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;media=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;all&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;style.css&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+=======
+ 
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; master
+
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Hello,World! Life is great!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In the first section that spans from ‘«««&amp;lt; HEAD’ until the ‘=======’ is in the ‘HEAD’ version, which is the most recent commit. the part that runs from the ‘========’ to the ‘»»»»&amp;gt; master’ is what was stored in the the master branch of the repository. To resolve the conflict, you need to delete the added symbols from git and decide which of the code you need to keep, deleting the rest. Once you’ve done that, you can save your changes and make a new commit to push the file, conflict free!&lt;/p&gt;</content><author><name></name></author><summary type="html">So You Wanna be a Hacker Code Cracker, Slacker Morning Warmup 5/26</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-05-01T15:58:59-04:00</published><updated>2017-05-01T15:58:59-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
