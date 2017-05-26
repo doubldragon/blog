@@ -24,7 +24,7 @@ github_username:  doubldragon
 
 # Build settings
 markdown: kramdown
-theme: Midnight
+theme: Slate
 gems:
   - jekyll-feed
 exclude:
