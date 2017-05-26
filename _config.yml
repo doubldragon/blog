@@ -25,7 +25,7 @@ github_username:  doubldragon
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+theme: Minima
 
 gems:
   - jekyll-feed
