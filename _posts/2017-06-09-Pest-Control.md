@@ -14,7 +14,7 @@ And then nothing. A peek at the console shows all manner of angry red error text
 ![Catharsis!](https://media.giphy.com/media/RhEvCHIeZAZ6E/giphy.gif)
 
 
-# Preventative Maintenance
+## Preventative Maintenance
 
 The first step to dealing with bugs is on the front, side before you do anything. A large number of errors are self-inflicted. It could be that you are "cowboy coding", launching into a project coding as fast as you can and fixing things on the fly (guilty). Other times it can be geting in the middle of a complicated function and being unable to find your way back out.
 
@@ -41,7 +41,7 @@ It's rarely that simple, but it's a first check to see if my approach is right. 
 
 As you make your way through your code you should give those bugs fewer places to hide, but those things are crafty, and find their way in anyways.
 
-#So, You've Got an Infestation
+## So, You've Got an Infestation
 
 Even with the utmost care, you still ended up with a crow's nest of an issue. A simple exercise I use has been pretty beneficial in finding my way out.
 
