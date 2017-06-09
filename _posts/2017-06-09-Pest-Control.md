@@ -45,7 +45,7 @@ As you make your way through your code you should give those bugs fewer places t
 
 Even with the utmost care, you still ended up with a crow's nest of an issue. A simple exercise I use has been pretty beneficial in finding my way out.
 
-![weedin out some bugs]('../screen.png')
+
 
 In the text editor open a brand new file next two the problematic file. From there, go line by line in your code. If you look at a line and are 100% sure what it does, and how it does it, copy it to the new file. If you aren't sure, leave it. Work through the whole file that way copying known items to the new file. If it doubt, leave it the old file. Once you've finished that, look through both files. Odds are, the bug still in the old file and you can begin to unravel those pieces. You also may look at what's in the new file and see the code in a new light and find a new way through. 
 
